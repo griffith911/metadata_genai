@@ -209,7 +209,7 @@ Install with:
 pip install -r requirements.txt
 ```
 
-Then run:
+Open Command Prompt in the folder location then run:
 
 ```bash
 # ⚠️ Streamlit does not support running `.ipynb` files directly. Convert it to a `.py` file first:
