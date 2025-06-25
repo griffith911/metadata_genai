@@ -213,7 +213,7 @@ Then run:
 
 ```bash
 # ⚠️ Streamlit does not support running `.ipynb` files directly. Convert it to a `.py` file first:
-jupyter nbconvert --to script document_converter_ui.ipynb
+python -m jupyter nbconvert --to script document_converter_ui.ipynb
 streamlit run document_converter_ui.py
 ```
 
