@@ -1,0 +1,21 @@
+# Core
+streamlit>=1.30.0
+pydantic>=2.0
+python-magic  # for file type detection if needed
+importlib-metadata; python_version < "3.8"
+
+# Typing and utilities
+typing-extensions>=4.0.0
+docling @ git+https://github.com/your-org/docling.git@main
+pypdfium2
+
+# Optional(based on standard backend support used in pipelines)
+pandas>=2.0.0
+python-docx>=0.8.11
+openpyxl>=3.0.0
+python-pptx>=0.6.21
+markdown
+beautifulsoup4
+lxml
+PyMuPDF  # for PDF reading
+SpeechRecognition  # if AUDIO/ASR is enabled
