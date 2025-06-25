@@ -1,0 +1,68 @@
+Text File Formats
+TXT file format is a format that is developed for storing plain text with no formatting such as graphics, bolding, italicization, font style, alignment, and so on. It is one of the most basic file types and the most widely used file formats on computers. These files are smaller than other file formats even containing the same text data, therefore they take up less space in the system and are very easy to convert and store.
+
+Text-File-Formats-copy
+Text File Formats
+Text Files:
+A file functions as a container for data. It is the most basic and important type of file which are used to store textual data. A text file is a file that includes text-based data is also used to store and share textual material and is beneficial for both human and software companies. A text file often uses a straightforward character encoding, such as UTF-8 or ASCII. Text is an ordered collection of alphanumeric characters.
+
+Although most text files are created and saved by users. Text files can be saved in either plain text or rich text formats and also include textual data. Software developers can use text files to store program data.
+
+Some Examples of Text files are Email messages, log files, and word-processing documents.
+
+Some of the common Text file formats:
+1 .asc
+Programs like Pretty Good Privacy (PGP) which is an encryption program used for secure communication use ASC files which are armored ASCII files. It includes a digitally signed message and can store both plain-text written data and binary data encoded as text.
+
+These files are often used for securely transmitting messages via email and SMS as well as posting online security alerts. These files are substantially larger than the original pre-encoded file size because ASC files include textual representations of binary data.
+
+2 .doc
+A word-processing document that is created by Microsoft Word or exported from another word-processing such as Apple Pages or OpenOffice Writer is referred to as a DOC file. Some of the forms that are included in doc file format are Formatted text, pictures, tables, graphs, charts, page formatting, and print settings.
+
+All document forms including essays, resumes, letters, and invitations can be saved in DOC files. There will be an option available to you while creating a document in Word to save it in the DOC file format. The document's contents are then saved as a DOC file that can be closed and reopened by the program for further editing. You can print your edited DOC file or save it as another file type such as a.PDF or.DOT document after editing.
+
+3 .docx
+A document that is created by Microsoft Word or exported from another word processing application such as Apple Pages or OpenOffice Writer is referred to as a DOCX file. It has other document features like tables, charts, and images along with formatted text. DOCX files are frequently used for letters, resumes, invitations, newsletters, and other documents in residential, academic, and business environments.
+
+Microsoft Word 2007 was first introduced The Open XML Document format and it is used to store DOCX files. It replaced the .DOC file format as the standard format for documents. DOCX files save data in separate files and folders inside a compressed Zip package whereas DOC files save document data in a single binary file.
+
+4 .rtf
+A text document that supports "rich text" font styling is known as an RTF file. Some of the examples are Bold, italicized, and underlined text along with various font sizes and types. Rich text files also allow tab width, document margins, and custom line spacing in addition to other page formatting options. Modern versions of rtf also include images such as.JPG and.PNG files.
+
+5 .msg
+Anything created or stored in Microsoft Outlook such as an email message, contact, appointment, or task is known as an MSG file. It comprises all of the item's information including attachments to an email message. MSG files are linked with Outlook although they can also be supported by other applications that use Microsoft's Messaging Applications Programming Interface (MAPI).
+
+6 .pdf
+A multi-platform document prepared using Adobe Acrobat or another PDF application is called a PDF file. Documents and publications should be saved in PDF standard format so that these can be easily accessed on multiple platforms. Rather than being developed from the start, PDF files are mostly created from pre-existing documents. Some of the documents are included in PDF format such as when you download a document from the internet or get one via email from a colleague or friend. Text, pictures, forms, written material, outlines, and other document-related data .PDF files also electronically retain fonts and formatting across numerous devices and seem the same on screen as they do when printed on paper.
+
+7 .txt
+A file functions as a container for data. A text file is the most basic and important type of file. Text files are used to store textual data. A text file is a file that includes text-based data. This is used to store and share textual material and is beneficial for both human and software systems. TXT documents are used to create straightforward text documents with little to no formatting, making it one of the most compatible and fundamental text file types.
+
+8 .wpd
+A WordPerfect document is a text document created by Corel WordPerfect, a Windows word processor that comes with the WordPerfect Office suite and is known as a WPD file. It also includes Formatted text, tables, charts, drawn objects, and images. WordPerfect is used for letters, invites, resumes, newsletters, and other documents in the home, classroom, and business environments. The primary file type for the application is the proprietary Corel WPD format but it can save documents in other formats as well.
+
+9 .wps
+WPS files are text documents created by the Microsoft Works Word Processor, the predecessor to Microsoft Word. It is similar to a Word document (.DOC file). Still, macros and some of the more complex formatting present in Word documents are not compatible with WPS files.
+
+Uses of File Format:
+Personal documents: Many people utilize text-based documents for personal purposes in their daily lives from CVs and creative writing projects to recipes and lists.
+Professional documents: They can be utilized for creating reports, memoranda, business plans, process documents, and various other documents.
+Data storage: Programs utilize text extensions to record activities on a computer or tasks performed by a specific user. So that these can be utilized later on when needed.
+Format-specific documents: Some programs allow users to store specified items such as an email saved offline as a text file extension. This can be beneficial for sharing with a colleague separately or editing/working with the contents.
+Benefits of File Format:
+Simplicity: Text formats are simple to use and create. This implies that users won't often face complicated or technical challenges or require particular knowledge or skills to utilize them.
+Data Recovery: It is often easier to recover from data corruption in text file format and proceed with processing the remaining information.
+Small and easily shareable: Text documents are generally significantly smaller than other forms of files, making them easier to share and store.
+Highly accessible: Simple text file formats can be accessed by most computers and devices without the need for any specialized software. They have widespread support for several programs.
+Applications that use file format:
+Some of the applications that use file format are :
+
+Edit Text Files TXT File Maker
+Web File Helper.
+Online TXT Reader.
+File Viewer for Android.
+Microsoft Word.
+Apple TextEdit.
+Leafpad and gedit for Linux.
+Conclusion:
+As TXT file formats are lightweight, adaptable file formats that can be read by almost any text editor and web browser, they are expected to continue to be popular in the future. TXT files will develop further in step with the advancement of technology. They can be further compressed to lessen their size and storage space effect, or they can be used for more complicated data formats, such as spreadsheets. To enable more potent data analysis, TXT files may also be further connected with other technologies, such as machine learning (ML) and artificial intelligence (AI).
