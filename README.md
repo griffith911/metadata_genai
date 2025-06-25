@@ -199,6 +199,9 @@ Ensure you have:
 * `streamlit`
 * `pydantic`
 * `docling` (internal module, must be installed locally or from source)
+* `typing-extensions`
+* `PyMuPDF`
+* `python-magic`
 
 Install with:
 
